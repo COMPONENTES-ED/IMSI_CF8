@@ -96,6 +96,53 @@
           </p>
         </div>
       </div>
+      <div class="row justify-content-center">
+        <div class="col-lg-6 mb-lg-0 mb-4">
+          <div class="tarjeta bg5 p-4 h-100">
+            <p>
+              Una de las técnicas más comunes en la reparación de equipos de
+              cómputo es el reemplazo de componentes defectuosos, como discos
+              duros, fuentes de alimentación, módulos de memoria RAM y tarjetas
+              gráficas. En algunos casos, estos componentes pueden dañarse
+              debido al desgaste, sobrecalentamiento, o fallos eléctricos. Los
+              técnicos evalúan cada componente para determinar si es posible
+              repararlo o si es necesario reemplazarlo. Esta técnica implica una
+              alta precisión en la selección de repuestos compatibles y en el
+              proceso de instalación para garantizar que el equipo funcione sin
+              problemas después de la reparación.
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-6 mb-lg-0 mb-4">
+          <div class="tarjeta bg6 p-4 h-100">
+            <p>
+              Otra técnica utilizada es la soldadura, especialmente en
+              componentes más delicados, como placas base o tarjetas
+              electrónicas. La soldadura permite reparar conexiones eléctricas
+              dañadas, lo que es vital para restaurar el flujo de electricidad
+              en el equipo. Los técnicos emplean herramientas específicas, como
+              estaciones de soldadura y microscopios, para realizar reparaciones
+              precisas sin dañar los circuitos cercanos. Esta técnica requiere
+              habilidades avanzadas, ya que un error en la soldadura podría
+              empeorar la condición del equipo o incluso provocar daños
+              irreparables en el componente afectado.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="p-4">
+        <p>
+          La actualización de hardware es otra técnica clave dentro del
+          mantenimiento correctivo. En algunos casos, el equipo puede seguir
+          funcionando, pero requiere una actualización de componentes para
+          mejorar su rendimiento o para solucionar problemas de compatibilidad.
+          Las actualizaciones de hardware incluyen la instalación de unidades de
+          almacenamiento de mayor capacidad, tarjetas gráficas más potentes o
+          procesadores más rápidos. Esta técnica no solo soluciona problemas de
+          rendimiento, sino que también extiende la vida útil del equipo,
+          adaptándolo a las demandas de software y aplicaciones modernas.
+        </p>
+      </div>
       <Separador></Separador>
       <div id="t_2_1" class="titulo-segundo color-acento-botones mt-5">
         <h2>2.1 Reemplazo de componentes</h2>
