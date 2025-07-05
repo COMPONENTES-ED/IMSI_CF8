@@ -21,18 +21,17 @@
         <div class="col-12 col-md-8 col-lg-9">
           <div class="titulo-segundo">
             <h2>
-              Prueba de conocimientos sobre mantenimiento correctivo de equipos
-              de cómputo: técnicas y herramientas de funcionamiento y
-              documentación.
+              Prueba de conocimientos sobre Mantenimiento correctivo de equipos
+              de cómputo: técnicas y procedimientos
             </h2>
           </div>
           <p class="mb-4">
-            Validar el conocimiento adquirido sobre sobre mantenimiento
-            correctivo de equipos de cómputo. Esto se trabaja a partir de un
-            conjunto de preguntas con opción de respuesta falso o verdadero, con
-            el propósito de buscar una dinámica de razonamiento ágil sobre
-            opciones cerradas y reafirmar un conocimiento declarado dentro del
-            componente.
+            Validar el conocimiento adquirido sobre sobre Mantenimiento
+            correctivo de equipos de cómputo: técnicas y procedimientos. Esto se
+            trabaja a partir de un conjunto de preguntas con opción de respuesta
+            falso o verdadero, con el propósito de buscar una dinámica de
+            razonamiento ágil sobre opciones cerradas y reafirmar un
+            conocimiento declarado dentro del componente.
           </p>
           <div class="tarjeta actividad p-3">
             <div class="row justify-content-around align-items-center">
